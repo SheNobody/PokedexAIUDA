@@ -41,7 +41,7 @@ public class PokemonDetailsActivity extends AppCompatActivity implements AsyncTa
         favorite = findViewById(R.id.details_favorite);
         name = findViewById(R.id.details_name);
         types = findViewById(R.id.detatils_type);
-        weight = findViewById(R.id.detatils_weight);
+        weight = findViewById(R.id.detatils_height);
         experience = findViewById(R.id.detatils_experience);
         id = findViewById(R.id.details_id);
 
